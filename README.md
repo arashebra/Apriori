@@ -1,3 +1,3 @@
 # Apriori
-Simple Apriori project
+Simple Apriori project </br>
 Add to file : config.txt & transaction.txt
