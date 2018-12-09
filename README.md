@@ -1,0 +1,2 @@
+# Apriori
+Simple Apriori project
